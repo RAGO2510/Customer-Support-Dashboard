@@ -1,9 +1,9 @@
 # Customer-Support-Dashboard
 
-##Overview:
+## Overview:
 Developed a comprehensive Power BI dashboard for a call center to enhance operational insights and improve customer satisfaction. The dashboard tracks key performance indicators (KPIs) such as total number of calls, total call duration, average call duration, and response time percentage.
 
-##Key Features:
+## Key Features:
 
 Total Calls: 32.94K
 Total Call Duration: 13.74K hours (824.22K minutes)
@@ -18,7 +18,7 @@ Total Calls by Sentiment
 Total Calls by Call Center City
 
 
-##Insights:
+## Insights:
 
 Highest call volumes on Fridays and Thursdays
 Most calls from Texas, California, Florida, and New York
@@ -28,7 +28,7 @@ Call distribution: Call Center (32.3%), Chatbot (25.06%), Email (22.68%), Web (1
 Highest call volumes from Los Angeles, Baltimore, Chicago, and Denver
 
 
-##Steps Followed:
+## Steps Followed:
 
 Loaded and cleaned data in Power BI.
 Created measures to calculate KPIs.
@@ -45,14 +45,4 @@ This project showcases my ability to leverage Power BI for data visualization an
 
 
 
-🔶 Call centre managers and supervisors
 
-🔶 Business analysts and data scientists
-
-🔶 Anyone interested in data-driven decision-making
-
-Getting Started:
-Clone this repository.
-Open the Call Center Analytics.pbix file in Power BI Desktop.
-Connect to your data source, Call-Center-Dataset.xlsx.
-Explore the dashboards and reports.
